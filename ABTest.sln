@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABTest", "ABTest.csproj", "{0EE03D7C-0839-D23F-7920-EC1403195A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABTest.Editor", "ABTest.Editor.csproj", "{64035C73-B009-1D06-6096-B5EB87A69125}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE03D7C-0839-D23F-7920-EC1403195A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE03D7C-0839-D23F-7920-EC1403195A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE03D7C-0839-D23F-7920-EC1403195A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE03D7C-0839-D23F-7920-EC1403195A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64035C73-B009-1D06-6096-B5EB87A69125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64035C73-B009-1D06-6096-B5EB87A69125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64035C73-B009-1D06-6096-B5EB87A69125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64035C73-B009-1D06-6096-B5EB87A69125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
