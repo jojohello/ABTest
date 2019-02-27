@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3033430746
+CRC: 1142384274
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,6 +10,6 @@ AssetBundleManifest:
       Name: rawdata/material/m1.mat
       Dependencies: {}
     Info_2:
-      Name: data/object2.prefab
+      Name: data/folderfor2/object2.prefab
       Dependencies:
         Dependency_0: rawdata/material/m1.mat
